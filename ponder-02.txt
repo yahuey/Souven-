@@ -1,0 +1,47 @@
+# 02 Ponder : Weekly Reflection
+
+1. Describe one challenge your team experienced working on the Vacation Calendar activity.
+Working and using the ENUM type. 
+
+
+2. For the Game of Life assignment, what advantages do you see in using interfaces to define creature behaviors, rather than subclasses?
+It allows for unrelated items with similar character
+
+
+3. Did you complete the Stretch Challenge for the Game of Life Assignment? If so, briefly describe what you did, and how you structured your code.
+N/a
+
+4. What did you learn from comparing your code to the teacher's solution?
+My modularity could improve.
+
+
+5. After completing the assignments this week, what questions do you still have?
+Non I can think of. 
+
+
+6. If you were getting paid to work on this week's Prove assignment and you had another month to work on it, what would you add?
+Make it more random, like life. Attacks don't land. I would have placed an evolve feature for animals that survive encounters. 
+
+
+7. A common Java interview question is "describe the difference between an interface and an abstract class". How would you answer that question?
+An abstract class would not be able to offer the same flexibility of an interface due to you being able to only inherit one class. An abstract will limit you greatly. 
+
+
+
+8. Of all of the resources in this week's Preparation assignment, which was the _most_ helpful to you and why?
+The documentation on Java was key to success.
+
+9. Of all of the resources in this week's Preparation assignment, which was the _least_ helpful to you and why?
+I don't recall any not having assisted me/
+
+
+10. How many hours did you spend on this class this week?
+
+02 Prepare - 
+02 Teach - 
+02 Prove 1st Attempt -
+02 Prove 2nd Attempt -
+02 Ponder -
+----------------------------
+Total Hours - 
+
